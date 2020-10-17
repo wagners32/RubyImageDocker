@@ -1,2 +1,1 @@
-# Ruby Image
-Imagem mínima de Ruby com mariadb and MSSQL
+Minimum Ruby image with mariadb and MSSQL
