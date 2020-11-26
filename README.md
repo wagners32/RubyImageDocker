@@ -1,3 +1,1 @@
-# RubyImageDocker
-
-Minimum Ruby image with mariadb and MSSQL
+Minimal Dockerfile for Ruby applications
